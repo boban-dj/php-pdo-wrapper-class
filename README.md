@@ -1,7 +1,9 @@
 # php-pdo-wrapper-class
 (Exported from code.google.com/p/php-pdo-wrapper-class)
 
-This is a brief introduction. More documentation is available here: http://www.imavex.com/php-pdo-wrapper-class/
+This is a brief introduction. More documentation is available here: <https://github.com/pixeline/php-pdo-wrapper-class/wiki/Available-methods>
+
+(From http://www.imavex.com/php-pdo-wrapper-class/)
 
 ## Project Overview
 
