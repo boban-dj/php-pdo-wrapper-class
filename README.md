@@ -1,10 +1,6 @@
 # php-pdo-wrapper-class
 (Exported from code.google.com/p/php-pdo-wrapper-class)
 
-This is a brief introduction. More documentation is available here: <https://github.com/pixeline/php-pdo-wrapper-class/wiki/Available-methods>
-
-(From http://www.imavex.com/php-pdo-wrapper-class/)
-
 ## Project Overview
 
 This project provides a minimal extension for PHP's PDO (PHP Data Objects) class designed for ease-of-use and reducing development time/effort. This is acheived by providing methods - delete, insert, select, and update - for quickly building common SQL statements, handling exceptions when SQL errors are produced, and automatically returning results/number of affected rows for the appropriate SQL statement types.
@@ -15,9 +11,12 @@ This project provides a minimal extension for PHP's PDO (PHP Data Objects) class
 - Appropriate PDO Driver(s) - PDO_SQLITE, PDO_MYSQL, PDO_PGSQL
 - Only MySQL, SQLite, and PostgreSQL database types are currently supported.
 
-## Code Samples / Documentation
+## Example code
 
-Code samples and documentation for this project can be accessed at http://www.imavex.com/php-pdo-wrapper-class/. Below, you will find a brief example of this class in action.
+This is a brief introduction. More documentation is available here: <https://github.com/pixeline/php-pdo-wrapper-class/wiki/Available-methods>
+
+(From http://www.imavex.com/php-pdo-wrapper-class/)
+
 `````php
 
 <?php
