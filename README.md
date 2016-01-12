@@ -9,7 +9,7 @@ This project provides a minimal extension for PHP's PDO (PHP Data Objects) class
 - PHP 5
 - PDO Extension
 - Appropriate PDO Driver(s) - PDO_SQLITE, PDO_MYSQL, PDO_PGSQL
-- Only MySQL, SQLite, and PostgreSQL database types are currently supported.
+- MySQL, SQLite, or PostgreSQL database server
 
 ## Example code
 
